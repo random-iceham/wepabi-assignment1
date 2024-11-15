@@ -1,11 +1,11 @@
 // hotel management app
 
-// DONE book room (room availability)
-// DONE check bookings (filter by name)
-// DONE check room availability? (which room? availbilty - true/false)
-// DONE manage rooms (add/delete rooms, tho can u really delete rooms?)
-// DONE manage staff (add/delete staff - id, name, position, action?)
-// DONE generate report (number of rooms, rooms availible, rooms booked, staff on hand?)
+// book room
+// check bookings
+// check room availability
+// manage rooms
+// manage staff 
+// generate report
 
 let rooms = [
     {id: 1,room: "A1", level: 1, price: 4, availability: true},
